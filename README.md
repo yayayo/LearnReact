@@ -1,3 +1,3 @@
 # LearnReact
 
-http server
+http-server
